@@ -32,6 +32,8 @@ Implement the specified metrics, ensuring accuracy and relevance in calculating 
 ### Dashboard Development: 
 Design and create the dashboard using Power BI's visualization tools to present data in an easily digestible format.
 
+![RevenueInsightsDashboard](https://github.com/KishanGangarama/Revenue-Insights-in-Hospitality-Domain/assets/112736041/c17d60c0-63d6-41a2-85d9-df4ac76dfa6b)
+
 ### Derive Additional Insights: 
 Go beyond metric list to identify valuable insights that can contribute to AtliQ Grands' revenue improvement.
 
